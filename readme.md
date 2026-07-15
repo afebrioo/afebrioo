@@ -61,5 +61,5 @@ Real-time vehicle detection using YOLOv8.
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://linkedin.com/in/afebrioo
+- Email: rahmandaafebrioyuris@gmail.com

@@ -50,13 +50,14 @@ Real-time vehicle detection using YOLOv8.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afebrioo&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afebrioo&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark)
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afebrioo&theme=github-dark&hide_border=true"/>
+</p>
 
 ## 📫 Connect with Me
 
